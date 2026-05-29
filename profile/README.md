@@ -98,15 +98,15 @@ Tailored software engineered for complex business needs:
 
 ## Projects
 
-### [Payment Book](https://payment-book.com)
+### [payment-book.com](https://payment-book.com)
 
 Payment infrastructure and transaction management platform built for modern payment operations.
 
-### [DomonkAI](https://ai.domonk.com)
+### [ai.domonk.com](https://ai.domonk.com)
 
 Artificial intelligence platform focused on automation, intelligent workflows, and advanced AI-powered business solutions.
 
-### [GigX Pro](https://gigx.pro)
+### [gigx.pro](https://gigx.pro)
 
 E-commerce marketplace and white-label commerce infrastructure designed for scalable online business operations.
 
